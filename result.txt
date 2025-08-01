@@ -1,0 +1,49 @@
+......WELCOME TO ABC STATIONERY STORE......
+
+List of items in our shop:
+S.NO 	 PRODUCT NAME      	 PRICE
+-----------------------------------
+1.   	 Notebook          	 20rps
+2.   	 Stationary kit    	 50rps
+3.   	 Geometry box      	 75rps
+4.   	 Calculator        	 150rps
+5.   	 A4 sheet(a dozen) 	 12 rps
+-----------------------------------
+Enter the total number of items:5
+
+Available stock for each product is:200
+
+Enter s.no of the product that the customer bought:2
+Enter the quantity of the items that the customer bought:3
+
+Enter s.no of the product that the customer bought:4
+Enter the quantity of the items that the customer bought:1
+
+Enter s.no of the product that the customer bought:3
+Enter the quantity of the items that the customer bought:1
+
+Enter s.no of the product that the customer bought:1
+Enter the quantity of the items that the customer bought:4
+
+Enter s.no of the product that the customer bought:
+4
+Enter the quantity of the items that the customer bought:7
+
+
+........ABC STATIONERY STORE..........
+-----------------------------------------------
+BILL
+-------------------------------------------------
+S.NO 	 PRODUCT NAME 	 QUANTITY 	 PRICE
+-------------------------------------------------
+1 	     Stationary kit  	     3 	    150rps
+2 	     Calculator  	     1 	    150rps
+3 	     Geometry box  	     1 	    75rps
+4 	     Notebook  	     4 	    80rps
+5 	     Calculator  	     7 	    1050rps
+------------------------------------------
+TOTAL PRICE:1505rps
+
+Tax(GST):5%
+
+TOTAL AMOUNT:1580.25rps
