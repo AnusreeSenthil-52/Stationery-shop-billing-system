@@ -11,13 +11,10 @@ cout<<"......WELCOME TO ABC STATIONERY STORE......\n\n";
 cout<<"List of items in our shop:\n"; 
 cout<<"S.NO \t PRODUCT NAME      \t PRICE\n"; 
 cout<<"-----------------------------------\n"; 
-cout<<"1.   \t Notebook          
-\t 20rps\n"; 
+cout<<"1.   \t Notebook          \t 20rps\n"; 
 cout<<"2.   \t Stationary kit    \t 50rps\n"; 
-cout<<"3.   \t Geometry box      
-\t 75rps\n"; 
-cout<<"4.   \t Calculator        
-\t 150rps\n"; 
+cout<<"3.   \t Geometry box      \t 75rps\n"; 
+cout<<"4.   \t Calculator        \t 150rps\n"; 
 cout<<"5.   \t A4 sheet(a dozen) \t 12 rps\n"; 
 cout<<"-----------------------------------\n"; 
 } 
