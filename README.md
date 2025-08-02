@@ -46,9 +46,9 @@ A simple C++ console application that simulates a billing and stock management s
 ---
 
 ## 🚀 Future Improvements
--📄 Add file handling to save daily transactions
--🖨️ Print receipts to a file or printer
--🧾 Add login system for admin
--📊 Generate sales reports
--🛒 Add real-time stock update & dynamic product entry
--🌐 Create GUI version using Qt or web version using Flask + C++
+- 📄 Add file handling to save daily transactions
+- 🖨️ Print receipts to a file or printer
+- 🧾 Add login system for admin
+- 📊 Generate sales reports
+- 🛒 Add real-time stock update & dynamic product entry
+- 🌐 Create GUI version using Qt or web version using Flask + C++
